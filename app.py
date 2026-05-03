@@ -120,7 +120,7 @@ with centro:
 st.markdown(f"""
     <div class='footer-text'>
         <br>
-        <strong>📍 Av. Acoyte, Caballito, Ciudad de Buenos Aires</strong> <br>
+        <strong>📍 Av. Acoyte 554, Caballito, Ciudad de Buenos Aires</strong> <br>
         Atención personalizada de Lunes a Viernes.
     </div>
     """, unsafe_allow_html=True)
